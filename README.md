@@ -1,2 +1,4 @@
-# rockpaperscissor
-simple python code of rock paper scissors can be understand by beginners 
+# Rock–paper–scissors
+
+This repository contains simple python code of rock-paper-scissors which could be easily understood by beginners.
+
